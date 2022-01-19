@@ -1,4 +1,4 @@
-Projeto exemplo de aplicação Web Java EE.
+Projeto exemplo de aplicação Web Java EE construído no Eclipse.
 
 Utilizando o Java Tomcat Apache Tomcat/10.0.13.
 
